@@ -1,0 +1,10 @@
+mqtt:
+  username:
+  password:
+  url: tcp://127.0.0.1:1883
+  sender:
+    clientId: mq12412314512
+    defaultTopic: /EH100602/dev/bs/tof/dist/123
+
+server:
+  port: 1883
